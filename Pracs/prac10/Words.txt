@@ -1,0 +1,25 @@
+1. The results obtained from the app and manual creation are the same.
+
+2. The results obtained from the app and the manual creation are the same.
+
+3. The results obtained from the app are different to the manual creation since
+the app doesn't wait for a 5th value to overlaod the node to split, it doesn't before.
+
+4a)
+The heights of the red-black tree is the tallest since there is only one value per node where as the
+2-3-4 tree is the second tallest since it has 3 values per node. The b-tree has the shortest since
+it has 4 values per node. B-tree and 2-3-4 both have methods to make themselves smaller.
+
+4b)
+The red black would be the least complicated algorithm. This is because it only compares one value per node
+then traverses down, binary and 2-3-4 trees on the other hand require more than one comparison per node
+before it starts to traverse which requires more code and array indexing to implement.
+
+4c)
+Red black trees are the hardest to understand since they have so many rules and methods, the 2-3-4 and B-tree
+both have 2 methods which are very simple to understand. None the less red black trees are easier to implement
+(4b answer)
+
+4d)
+These would work just like heaps, finding the leaves on the very far left going one back nodes and trying to go to untraveled nodes
+to the right side of the branch. This keeps on repeating until the far right node is reached
