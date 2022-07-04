@@ -1,0 +1,2 @@
+Distance: 16 Journey: 314.221.lab 314.1.ext1  D:3 Sec:0 Stairs:True; 204.1.ext1  D:10 Sec:0 Stairs:True; 204.238.lab  D:3 Sec:2 Stairs:True; 
+Distance: 23 Journey: 314.221.lab 314.1.ext1  D:3 Sec:0 Stairs:True; 204.1.ext1  D:10 Sec:0 Stairs:True; 204.238.lab  D:10 Sec:2 Stairs:False; 

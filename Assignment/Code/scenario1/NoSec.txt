@@ -1,0 +1,2 @@
+Distance: 21 Journey: A D  D:3 Sec:0 Stairs:True; B  D:2 Sec:0 Stairs:True; E  D:12 Sec:0 Stairs:False; F  D:4 Sec:0 Stairs:False; 
+Distance: 26 Journey: A B  D:10 Sec:0 Stairs:False; E  D:12 Sec:0 Stairs:False; F  D:4 Sec:0 Stairs:False; 
